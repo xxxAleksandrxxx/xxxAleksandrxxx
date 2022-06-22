@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxxAleksandrxxx
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL and how to use Git
 - 💞️ I’m looking to collaborate on Data Science open source projects
 - 📫 How to reach me ...
 
